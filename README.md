@@ -3,6 +3,7 @@
 ## 참고 문서
 
 - [Use Dynamic Library Import](https://developers.google.com/maps/documentation/javascript/load-maps-js-api)
+- [Code Samples By Google Maps Platform](https://developers.google.com/maps/documentation/javascript/examples)
 
 ## 환경 설정
 
